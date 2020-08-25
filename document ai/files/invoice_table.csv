@@ -1,0 +1,7 @@
+,Item Description,Quantity,Price,Amount
+0,Tool A,500,$1.00,$500.00
+1,Service B,1,$900.00,$900.00
+2,Resource C,50,$12.00,$600.00
+3,,,Subtotal,$2000.00
+4,,,Tax,$140.00
+5,,,BALANCE DUE,$2140.00
